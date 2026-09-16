@@ -46,7 +46,7 @@ Presented at the Buckeye Engineering Design Showcase, April 28, 2026, Ohio Stadi
 ## Repository contents
 
 - [docs/Technical-Design-Review.pdf](Technical-Design-Review.pdf) — the full project report, covering problem definition, user research, concept development, prototyping, and testing.
-- [media/Team_N_Flyer](Poster) — the showcase poster.
+- [media/Poster](Poster) — the showcase poster.
 
 This repository currently holds the written documentation and poster. CAD files and 3D-print files aren't included yet; if you want to add them, a `cad/` or `hardware/` folder would be a natural place for them.
 
