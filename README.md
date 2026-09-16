@@ -11,7 +11,7 @@ This Project was nominated & presented at the Buckeye Engineering Design Showcas
 
 
 ## Final Design
-- [3D Model of the Brace]([https://skfb.ly/pMZu9](https://sketchfab.com/models/580d400f9824445db32a312051443653/embed?autostart=1))
+- [3D Model of the Brace](https://skfb.ly/pMZu9](https://sketchfab.com/models/580d400f9824445db32a312051443653/embed?autostart=1)
  
 
 ### The problem
