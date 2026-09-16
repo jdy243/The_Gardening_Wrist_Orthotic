@@ -10,18 +10,19 @@ This Project was nominated & presented at the Buckeye Engineering Design Showcas
 <p align="center">Buckeye Engineering Design Showcase, April 28, 2026, Ohio Stadium.</p>
 
 
-
+## Final Design
+- [3D Model of the Brace](https://skfb.ly/pMZu9)
  
 
-## The problem
+### The problem
 
 Weeding, digging, and turning soil put real strain on the wrist and forearm, especially for gardeners with arthritis or other joint pain. Most existing products only solve part of this: a wrist stabilizer supports the joint but doesn't help with gripping a tool, and compression gloves or ergonomic tool handles don't address wrist overextension. Products that do both tend to be expensive or bulky.
 
-## How it works
+#### How it works
 
 The brace is 3D printed in TPU from a scan of the user's hand, so it's shaped to that hand rather than a generic size. It's sewn onto a standard gardening glove and closes around the wrist with Velcro straps. A slot-clip printed into the palm of the glove locks onto a matching clip on an adjustable Velcro strap that wraps around a tool's handle, so the tool stays attached without needing a tight grip. All 3D-printed parts use hexagonal cutouts and a gyroid infill to keep weight down without giving up strength.
 
-## Specifications
+### Specifications
 
 | Metric | Value |
 | --- | --- |
@@ -32,7 +33,7 @@ The brace is 3D printed in TPU from a scan of the user's hand, so it's shaped to
 | Time to attach or detach a tool | 4.3 s (target under 40 s) |
 | Material cost per unit | $14.83 |
 
-## Team
+### The Team
 
 Team N, ENGR 1182.01, The Ohio State University, advised by Professor Jergens.
 
@@ -43,7 +44,7 @@ Team N, ENGR 1182.01, The Ohio State University, advised by Professor Jergens.
 
 Presented at the Buckeye Engineering Design Showcase, April 28, 2026, Ohio Stadium & RPAC.
 
-## Repository contents
+# Repository contents
 
 - [Technical Design Review](docs/Technical-Design-Review.pdf) — the full project report, covering problem definition, user research, concept development, prototyping, and testing.
 - [Poster](media/Poster.jpg) — the showcase poster.
