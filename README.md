@@ -1,4 +1,4 @@
-# Gardening Wrist Orthotic
+# The Gardening Wrist Orthotic
 
 A student designed product for people whose wrist or joint pain gets in the way of gardening. Featuring a 3D-printed wrist brace and gardening glove. The brace supports the wrist and forearm, and a quick-release clip on the palm lets a hand tool click into place instead of having to be gripped. 
 
