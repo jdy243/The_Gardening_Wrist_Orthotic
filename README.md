@@ -1,6 +1,6 @@
 # The Gardening Wrist Orthotic
 
-A student designed product for people whose wrist or joint pain gets in the way of gardening. Featuring a 3D-printed wrist brace and gardening glove. The brace supports the wrist and forearm, and a quick-release clip on the palm lets a hand tool click into place instead of having to be gripped. 
+A student designed product for people whose wrist or joint pain gets in the way of gardening. Featuring a 3D-printed customized wrist brace and gardening glove. The brace supports the wrist and forearm, and a quick-release clip on the palm lets a hand tool click into place instead of having to be gripped. 
 
 This Project was nominated & presented at the Buckeye Engineering Design Showcase, April 28, 2026, Ohio Stadium.
 <p align="center">
@@ -20,7 +20,7 @@ Weeding, digging, and turning soil put real strain on the wrist and forearm, esp
 
 #### How it works
 
-The brace is 3D printed in TPU from a scan of the user's hand, so it's shaped to that hand rather than a generic size. It's sewn onto a standard gardening glove and closes around the wrist with Velcro straps. A slot-clip printed into the palm of the glove locks onto a matching clip on an adjustable Velcro strap that wraps around a tool's handle, so the tool stays attached without needing a tight grip. All 3D-printed parts use hexagonal cutouts and a gyroid infill to keep weight down without giving up strength.
+The brace is CADed based on the surface details from a user's hand model from a LiDAR scan, and later 3D printer in 95A TPU so it's shaped to that hand rather than a generic size. It's sewn onto a standard gardening glove and closes around the wrist with Velcro straps. A slot-clip printed into the palm of the glove locks onto a matching clip on an adjustable Velcro strap that wraps around a tool's handle, so the tool stays attached without needing a tight grip. All 3D-printed parts use hexagonal cutouts and a gyroid infill to keep weight down without giving up strength.
 
 ### Specifications
 
