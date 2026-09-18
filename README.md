@@ -12,7 +12,8 @@ This Project was nominated & presented at the Buckeye Engineering Design Showcas
 
 ## Final Design
 - [3D Model of the Brace](https://sketchfab.com/models/580d400f9824445db32a312051443653/embed?autostart=1)
-- [3D Model of the Quick Release System (Adapter)](https://sketchfab.com/3d-models/quick-release-system-adapter-04e7fd2b0e794eb98720fba45b6b7ad8)
+- [3D Model of the Quick Release System (Adapter)](https://sketchfab.com/models/04e7fd2b0e794eb98720fba45b6b7ad8/embed)
+- [3D Model of the Quick Release System (Base Plate)](https://sketchfab.com/models/98bdad573c1f4930803acb94b18789f5/embed)
  
 
 ### The problem
@@ -50,7 +51,7 @@ Presented at the Buckeye Engineering Design Showcase, April 28, 2026, Ohio Stadi
 - [Technical Design Review](docs/Technical-Design-Review.pdf) — the full project report, covering problem definition, user research, concept development, prototyping, and testing.
 - [Poster](media/Poster.jpg) — the showcase poster.
 
-This repository currently holds the written documentation and poster. CAD files and 3D-print files aren't included yet; if you want to add them, a `cad/` or `hardware/` folder would be a natural place for them.
+This repository currently holds the written documentation and poster. CAD files/3D-print file are on an alternative website; if you want to add them, you can download them though the 'Final Design' portion in README.
 
 ## License
 
