@@ -52,7 +52,7 @@ Presented at the Buckeye Engineering Design Showcase, April 28, 2026, Ohio Stadi
 - [Technical Design Review](docs/Technical-Design-Review.pdf) — the full project report, covering problem definition, user research, concept development, prototyping, and testing.
 - [Poster](media/Poster.jpg) — the showcase poster.
 
-This repository currently holds the written documentation and poster. CAD files/3D-print file are on an alternative website; if you want to add them, you can download them though the 'Final Design' portion in README.
+This repository currently holds the written documentation and poster. CAD files/3D-print file are on an alternative website; if you need them, you can download them though the 'Final Design' portion in README.
 
 ## License
 
