@@ -56,4 +56,4 @@ This repository currently holds the written documentation and poster. CAD files/
 
 ## License
 
-No license file is included yet. Since this is a four-person team project, it's worth checking with the rest of Team N before adding one.
+No license file is included yet. Since this is a four-person team project.
