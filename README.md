@@ -23,7 +23,7 @@ Weeding, digging, and turning soil put real strain on the wrist and forearm, esp
 
 #### How it works
 
-The brace is CADed based on the surface details from a user's hand model from a LiDAR scan, and later 3D printer in 95A TPU so it's shaped to that hand rather than a generic size. It's sewn onto a standard gardening glove and closes around the wrist with Velcro straps. A slot-clip printed into the palm of the glove locks onto a matching clip on an adjustable Velcro strap that wraps around a tool's handle, so the tool stays attached without needing a tight grip. All 3D-printed parts use hexagonal cutouts and a gyroid infill to keep weight down without giving up strength.
+The brace is CADed based on the surface details from a user's hand model from a LiDAR scan, and later 3D printed in 95A TPU so it's shaped to that hand rather than a generic size. It's sewn onto a standard gardening glove and closes around the wrist with Velcro straps. A slot-clip printed into the palm of the glove locks onto a matching clip on an adjustable Velcro strap that wraps around a tool's handle, so the tool stays attached without needing a tight grip. All 3D-printed parts use hexagonal cutouts and a gyroid infill to keep weight down without giving up strength.
 
 ### Specifications
 
