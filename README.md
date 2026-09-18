@@ -12,6 +12,7 @@ This Project was nominated & presented at the Buckeye Engineering Design Showcas
 
 ## Final Design
 - [3D Model of the Brace](https://sketchfab.com/models/580d400f9824445db32a312051443653/embed?autostart=1)
+- [![Quick Release System Adapter](link-to-your-uploaded-screenshot.jpg)](https://sketchfab.com/3d-models/quick-release-system-adapter-04e7fd2b0e794eb98720fba45b6b7ad8)
  
 
 ### The problem
