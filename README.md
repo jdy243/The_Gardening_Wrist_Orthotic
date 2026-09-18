@@ -1,8 +1,7 @@
 # The Gardening Wrist Orthotic
 
-A student designed product for people whose wrist or joint pain gets in the way of gardening. Featuring a 3D-printed customized wrist brace and gardening glove. The brace supports the wrist and forearm, and a quick-release clip on the palm lets a hand tool click into place instead of having to be gripped. 
+A student designed product for people whose wrist or joint pain gets in the way of gardening. Featuring a 3D-printed customized wrist brace and gardening glove. The brace supports the wrist and forearm, and a quick-release clip on the palm lets a hand tool click into place instead of having to be gripped. This Project was nominated & presented at the Buckeye Engineering Design Showcase, April 28, 2026, Ohio Stadium.
 
-This Project was nominated & presented at the Buckeye Engineering Design Showcase, April 28, 2026, Ohio Stadium.
 <p align="center">
   <img width="800" alt="IMG_20260916_005650" src="https://github.com/user-attachments/assets/cee1496c-2286-420e-a54b-f2eed317efd5" />
 </p>
