@@ -11,6 +11,8 @@ This Project was nominated & presented at the Buckeye Engineering Design Showcas
 
 
 ## Final Design
+- [Physical Design Overview](<img width="1062" height="807" alt="Screenshot_20260519_214519_Gallery" src="https://github.com/user-attachments/assets/03434787-c6b2-4d2d-ab97-b5e6720f0fb0" />)
+
 - [3D Model of the Brace](https://sketchfab.com/models/580d400f9824445db32a312051443653/embed?autostart=1)
 - [3D Model of the Quick Release System (Adapter)](https://sketchfab.com/models/04e7fd2b0e794eb98720fba45b6b7ad8/embed)
 - [3D Model of the Quick Release System (Base Plate)](https://sketchfab.com/models/98bdad573c1f4930803acb94b18789f5/embed)
