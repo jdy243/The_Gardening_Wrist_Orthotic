@@ -44,7 +44,7 @@ Team N, ENGR 1182.01, The Ohio State University, advised by Professor Jergens.
 - Nicholas Farley
 - Dawson McMurry
 
-Presented at the Buckeye Engineering Design Showcase, April 28, 2026, Ohio Stadium & RPAC.
+Presented at the Buckeye Engineering Design Showcase, April 28, 2026, Ohio Stadium.
 
 # Repository contents
 
